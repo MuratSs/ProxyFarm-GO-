@@ -10,7 +10,7 @@ Farm proxies all around the world
  - Add syn scan for subnets of existing proxies.
 
 # Dependencies
-
+(go get)
  - github.com/go-sql-driver/mysql
  - h12.io/socks
  - And of course working mysql server.
