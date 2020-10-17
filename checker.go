@@ -15,6 +15,8 @@ import (
   _ "github.com/go-sql-driver/mysql"
 )
 
+
+
 /*
 0-undefined
 1-HTTP(S)
