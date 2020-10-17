@@ -19,7 +19,3 @@ func fire_and_forget_querier() {
 		}
 	}
 }
-
-
-
-
