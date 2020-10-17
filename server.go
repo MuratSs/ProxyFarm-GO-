@@ -11,6 +11,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 )
 
+
 var server_db, _ = sql.Open("mysql", DB_CONN_STR)
 
 func AddProxy(w http.ResponseWriter, req *http.Request) {
