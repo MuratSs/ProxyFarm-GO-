@@ -140,7 +140,3 @@ func checker_worker() {
     }
 	}
 }
-
-
-
-
