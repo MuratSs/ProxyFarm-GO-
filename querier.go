@@ -7,6 +7,8 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 )
 
+
+
 var querier_db, _ = sql.Open("mysql", DB_CONN_STR)
 var mysql_queue = make(chan string, 20000)
 
